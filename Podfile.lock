@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CryptoSwift (1.4.1)
+  - lottie-ios (3.0.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - CryptoSwift
+  - lottie-ios (= 3.0.0)
+  - SwiftyJSON (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CryptoSwift
+    - lottie-ios
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CryptoSwift: 0bc800a7e6a24c4fc9ebeab97d44b0d5f73a78bd
+  lottie-ios: e412502a03b3dfdaa3e18284194022065d82c820
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 091bf84fbbf3ed365fbaf702d741b779da4c0a38
+
+COCOAPODS: 1.11.2
