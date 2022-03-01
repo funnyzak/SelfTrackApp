@@ -11,6 +11,18 @@
 
 基于GPS追踪的个人足迹记录iOS APP。
 
+## Build
+
+```bash
+$ pod install
+```
+
+## Install on real device
+
+- Run `pod install`.
+- Open `selftrack.xcworkspace` using Xcode
+- Run `selftrack` on your device.
+
 
 ## License
 
