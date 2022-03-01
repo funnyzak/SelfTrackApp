@@ -1,0 +1,26 @@
+{
+  "name": "selftrackapp",
+  "version": "0.0.1",
+  "description": "ios self track app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/funnyzak/SelfTrackApp.git"
+  },
+  "keywords": [
+    "iOS",
+    "swift",
+    "app",
+    "swiftui",
+    "gps"
+  ],
+  "author": "Leon <silenceace@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funnyzak/SelfTrackApp/issues"
+  },
+  "homepage": "https://github.com/funnyzak/SelfTrackApp#readme"
+}
